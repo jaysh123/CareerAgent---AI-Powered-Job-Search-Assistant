@@ -106,12 +106,6 @@ flowchart TD
    export JOOBLE_API_KEY="your_jooble_api_key"
    ```
 
-## 📺 Demo Video
-
-[![CareerAgent Demo Video](https://img.youtube.com/vi/S4ZPeb96LGw/maxresdefault.jpg)](https://www.youtube.com/watch?v=S4ZPeb96LGw "Watch CareerAgent Demo")
-
-*Click on the image above to watch the demo video on YouTube*
-
 ## 🏃‍♂️ Running the Application
 
 Run the refactored agent that uses the LangChain framework:
