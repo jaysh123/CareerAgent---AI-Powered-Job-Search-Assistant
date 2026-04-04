@@ -1,4 +1,3 @@
-﻿![CareerAgent-AI-Powered-Job-Assistant]( https://github.com/Sandip767/CareerAgent-AI-Powered-Job-Assistant/image?custom_description=%F0%9F%9A%80+CareerAgent%3A+AI-Powered+Job+Search+Assistant+%7C+Quira+Quest+25+Submission&description=1&font=Bitter&language=1&name=1&owner=1&pattern=Overlapping+Hexagons&stargazers=1&theme=Dark)
 
 # CareerAgent - AI-Powered Job Search Assistant
 
