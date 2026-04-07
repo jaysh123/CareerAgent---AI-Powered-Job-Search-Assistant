@@ -1,6 +1,6 @@
 """
 CareerAgent - AI-Powered Job Assistant refactored to use LangChain framework
-Created for Quira Quest 25 by Sandip Raj
+Created for Quira Quest 25 by jayshree
 """
 
 import os
