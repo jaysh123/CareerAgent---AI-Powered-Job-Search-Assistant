@@ -1,7 +1,7 @@
 
 # CareerAgent - AI-Powered Job Search Assistant
 
-*Created for Quira Quest 25 by Sandip Raj*
+*Created for Quira Quest 25 by Jayshree*
 
 ![CareerAgent Logo](https://img.shields.io/badge/CareerAgent-AI%20Job%20Assistant-blue)
 ![LangChain](https://img.shields.io/badge/Framework-LangChain-green)
@@ -184,5 +184,5 @@ The API keys in the code should be replaced with your own keys. In production, a
 
 ---
 
-Created by Sandip Raj for Quira Quest 25, April 2025
+Created by Jayshree for Quira Quest 25, April 2025
 
